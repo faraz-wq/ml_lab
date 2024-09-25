@@ -20,23 +20,9 @@ Dataset link: https://www.kaggle.com/datasets/balaka18/email-spam-classification
 
 **Assignment-3**
 
-Given a bank customer, build a neural network-based classifier that can determine whether they will leave or not in the next 6 months.
-Dataset Description: The case study is from an open-source dataset from Kaggle. The dataset contains 10,000 sample points with 14 distinct features such as CustomerId, CreditScore, Geography, Gender, Age, Tenure, Balance, etc. 
-
-Link to the Kaggle project: https://www.kaggle.com/barelydedicated/bank-customer-churn-modeling
-
-Perform following steps: 
-1. Read the dataset.
-2. Distinguish the feature and target set and divide the data set into training and test sets.
-3. Normalize the train and test data.
-4. Initialize and build the model. Identify the points of improvement and implement the same.
-5. Print the accuracy score and confusion matrix
-
-**Assignment-4**
-
 Implement Gradient Descent Algorithm to find the local minima of a function. For example, find the local minima of the function y=(x+3)² starting from the point x=2.
 
-**Assignment-5**
+**Assignment-4**
 
 Implement K-Nearest Neighbors algorithm on diabetes.csv dataset. Compute confusion matrix, accuracy, error rate, precision and recall on the given dataset.
 
